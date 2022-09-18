@@ -1,0 +1,30 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 24, in script
+    show caution closem with dissolve
+Exception: Image 'caution' does not accept attributes 'closem'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 24, in script
+    show caution closem with dissolve
+  File "/home/cpu/renpy8/renpy/ast.py", line 1408, in execute
+    show_imspec(self.imspec, atl=getattr(self, "atl", None))
+  File "/home/cpu/renpy8/renpy/ast.py", line 1371, in show_imspec
+    renpy.config.show(name,
+  File "/home/cpu/renpy8/renpy/exports.py", line 686, in show
+    if not base.find_target() and renpy.config.missing_show:
+  File "/home/cpu/renpy8/renpy/display/image.py", line 413, in find_target
+    self.target = target._duplicate(a)
+  File "/home/cpu/renpy8/renpy/display/core.py", line 397, in _duplicate
+    args.extraneous()
+  File "/home/cpu/renpy8/renpy/display/core.py", line 265, in extraneous
+    raise Exception("Image '{}' does not accept attributes '{}'.".format(
+Exception: Image 'caution' does not accept attributes 'closem'.
+
+Linux-5.19.7-arch1-1-x86_64-with-glibc2.36 x86_64
+Ren'Py 8.0.1.22070801
+ptagain 1.0
+Wed Sep 14 01:09:57 2022
