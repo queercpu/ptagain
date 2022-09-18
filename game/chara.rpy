@@ -1,4 +1,4 @@
-define may = Character(
+define mayday = Character(
 None,
 ctc="orb_ctc_pause",
 kind=adv,
