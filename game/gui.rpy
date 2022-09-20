@@ -23,21 +23,21 @@ init python:
 ## The colors of text in the interface.
 
 ## An accent color used throughout the interface to label and highlight text.
-define gui.accent_color = '#0099cc'
+define gui.accent_color = '#0000ff'
 
 ## The color used for a text button when it is neither selected nor hovered.
-define gui.idle_color = '#888888'
+define gui.idle_color = '#ff0000'
 
 ## The small color is used for small text, which needs to be brighter/darker to
 ## achieve the same effect.
 define gui.idle_small_color = '#aaaaaa'
 
 ## The color that is used for buttons and bars that are hovered.
-define gui.hover_color = '#66c1e0'
+define gui.hover_color = '#0000ff'
 
 ## The color used for a text button when it is selected but not focused. A
 ## button is selected if it is the current screen or preference value.
-define gui.selected_color = '#ffffff'
+define gui.selected_color = '#339900'
 
 ## The color used for a text button when it cannot be selected.
 define gui.insensitive_color = '#8888887f'
@@ -49,7 +49,7 @@ define gui.hover_muted_color = '#005b7a'
 
 ## The colors used for dialogue and menu choice text.
 define gui.text_color = '#ffffff'
-define gui.interface_text_color = '#ffffff'
+define gui.interface_text_color = '#0000ff'
 
 
 ## Fonts and Font Sizes ########################################################
@@ -70,10 +70,10 @@ define gui.text_size = 30
 define gui.name_text_size = 15
 
 ## The size of text in the game's user interface.
-define gui.interface_text_size = 23
+define gui.interface_text_size = 25
 
 ## The size of labels in the game's user interface.
-define gui.label_text_size = 12
+define gui.label_text_size = 25
 
 ## The size of text on the notify screen.
 define gui.notify_text_size = 15
@@ -221,18 +221,18 @@ define gui.choice_button_text_insensitive_color = "#444444"
 ## image files in gui/button, like the other kinds of buttons.
 
 ## The save slot button.
-define gui.slot_button_width = 138
-define gui.slot_button_height = 103
-define gui.slot_button_borders = Borders(5, 5, 5, 5)
-define gui.slot_button_text_size = 7
+define gui.slot_button_width = 173
+define gui.slot_button_height = 129
+define gui.slot_button_borders = Borders(7, 7, 7, 7)
+define gui.slot_button_text_size = 9
 define gui.slot_button_text_xalign = 0.5
 define gui.slot_button_text_idle_color = gui.idle_small_color
 define gui.slot_button_text_selected_idle_color = gui.selected_color
 define gui.slot_button_text_selected_hover_color = gui.hover_color
 
 ## The width and height of thumbnails used by the save slots.
-define config.thumbnail_width = 128
-define config.thumbnail_height = 72
+define config.thumbnail_width = 160
+define config.thumbnail_height = 90
 
 ## The number of columns and rows in the grid of save slots.
 define gui.file_slot_cols = 3
@@ -270,7 +270,7 @@ define gui.pref_button_spacing = 0
 define gui.page_spacing = 0
 
 ## The spacing between file slots.
-define gui.slot_spacing = 5
+define gui.slot_spacing = 10
 
 ## The position of the main menu text.
 define gui.main_menu_text_xalign = 1.0

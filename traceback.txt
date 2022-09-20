@@ -1,85 +1,43 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While loading <renpy.display.im.Image object ('gui/textbox.png') at 0x7f4d58216bb0>:
-  File "game/script.rpy", line 12, in script
-    c "candy's very very long incessantly long statement. That breaks into two lines..."
-  File "game/script.rpy", line 12, in script
-    c "candy's very very long incessantly long statement. That breaks into two lines..."
-OSError: Couldn't find file 'gui/textbox.png'.
+While processing the selected_color property of style button_text:
+  File "renpy/common/00start.rpy", line 83, in _init_language
+    renpy.change_language(language)
+  File "renpy/common/00stylepreferences.rpy", line 124, in _m1_00stylepreferences__change_language
+    __update()
+  File "renpy/common/00stylepreferences.rpy", line 96, in _m1_00stylepreferences__update
+    renpy.style.rebuild()
+Exception: Color string '00000' must be 3, 4, 6, or 8 hex digits long.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "/home/cpu/renpy8/renpy/bootstrap.py", line 274, in bootstrap
+  File "D:\renpy\renpy-7.3.5-sdk\renpy\bootstrap.py", line 277, in bootstrap
     renpy.main.main()
-  File "/home/cpu/renpy8/renpy/main.py", line 660, in main
+  File "D:\renpy\renpy-7.3.5-sdk\renpy\main.py", line 660, in main
     run(restart)
-  File "/home/cpu/renpy8/renpy/main.py", line 146, in run
-    renpy.execution.run_context(True)
-  File "/home/cpu/renpy8/renpy/execution.py", line 938, in run_context
-    context.run()
-  File "game/script.rpy", line 12, in script
-    c "candy's very very long incessantly long statement. That breaks into two lines..."
-  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python3.9/site-packages/future/utils/__init__.py", line 441, in raise_
-  File "game/script.rpy", line 12, in script
-    c "candy's very very long incessantly long statement. That breaks into two lines..."
-  File "/home/cpu/renpy8/renpy/ast.py", line 921, in execute
-    renpy.exports.say(who, what, *args, **kwargs)
-  File "/home/cpu/renpy8/renpy/exports.py", line 1373, in say
-    who(what, *args, **kwargs)
-  File "/home/cpu/renpy8/renpy/character.py", line 1266, in __call__
-    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
-  File "/home/cpu/renpy8/renpy/character.py", line 927, in do_display
-    display_say(who,
-  File "/home/cpu/renpy8/renpy/character.py", line 666, in display_say
-    rv = renpy.ui.interact(mouse='say', type=type, roll_forward=roll_forward)
-  File "/home/cpu/renpy8/renpy/ui.py", line 299, in interact
-    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
-  File "/home/cpu/renpy8/renpy/display/core.py", line 3377, in interact
-    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, **kwargs) # type: ignore
-  File "/home/cpu/renpy8/renpy/display/core.py", line 3906, in interact_core
-    self.draw_screen(root_widget, fullscreen_video, (not fullscreen_video) or video_frame_drawn)
-  File "/home/cpu/renpy8/renpy/display/core.py", line 2602, in draw_screen
-    surftree = renpy.display.render.render_screen(
-  File "render.pyx", line 495, in renpy.display.render.render_screen
-  File "render.pyx", line 266, in renpy.display.render.render
-  File "/home/cpu/renpy8/renpy/display/layout.py", line 884, in render
-    surf = render(child, width, height, cst, cat)
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 266, in renpy.display.render.render
-  File "/home/cpu/renpy8/renpy/display/layout.py", line 884, in render
-    surf = render(child, width, height, cst, cat)
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 266, in renpy.display.render.render
-  File "/home/cpu/renpy8/renpy/display/layout.py", line 884, in render
-    surf = render(child, width, height, cst, cat)
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 266, in renpy.display.render.render
-  File "/home/cpu/renpy8/renpy/display/screen.py", line 704, in render
-    child = renpy.display.render.render(self.child, w, h, st, at)
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 266, in renpy.display.render.render
-  File "/home/cpu/renpy8/renpy/display/layout.py", line 884, in render
-    surf = render(child, width, height, cst, cat)
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 266, in renpy.display.render.render
-  File "/home/cpu/renpy8/renpy/display/layout.py", line 1369, in render
-    back = render(style.background, bw, bh, st, at)
-  File "render.pyx", line 170, in renpy.display.render.render
-  File "render.pyx", line 266, in renpy.display.render.render
-  File "/home/cpu/renpy8/renpy/display/im.py", line 627, in render
-    return cache.get(self, render=True)
-  File "/home/cpu/renpy8/renpy/display/im.py", line 295, in get
-    surf = image.load()
-  File "/home/cpu/renpy8/renpy/display/im.py", line 723, in load
-    raise e
-  File "/home/cpu/renpy8/renpy/display/im.py", line 688, in load
-    filelike = renpy.loader.load(self.filename)
-  File "/home/cpu/renpy8/renpy/loader.py", line 820, in load
-    raise IOError("Couldn't find file '%s'." % name)
-OSError: Couldn't find file 'gui/textbox.png'.
+  File "D:\renpy\renpy-7.3.5-sdk\renpy\main.py", line 76, in run
+    renpy.translation.init_translation()
+  File "D:\renpy\renpy-7.3.5-sdk\renpy\translation\__init__.py", line 583, in init_translation
+    renpy.store._init_language() # type: ignore
+  File "renpy/common/00start.rpy", line 83, in _init_language
+    renpy.change_language(language)
+  File "D:\renpy\renpy-7.3.5-sdk\renpy\translation\__init__.py", line 672, in change_language
+    i()
+  File "renpy/common/00stylepreferences.rpy", line 124, in _m1_00stylepreferences__change_language
+    __update()
+  File "renpy/common/00stylepreferences.rpy", line 96, in _m1_00stylepreferences__update
+    renpy.style.rebuild()
+  File "style.pyx", line 796, in renpy.style.rebuild
+  File "style.pyx", line 789, in renpy.style.build_styles
+  File "style.pyx", line 710, in renpy.style.build_style
+  File "style.pyx", line 707, in renpy.style.build_style
+  File "gen3-static/style_selected_functions.pyx", line 251, in style_selected_functions.selected_color_property
+  File "D:\renpy\renpy-7.3.5-sdk\renpy\color.py", line 167, in __new__
+    raise Exception("Color string {!r} must be 3, 4, 6, or 8 hex digits long.".format(c))
+Exception: Color string '00000' must be 3, 4, 6, or 8 hex digits long.
 
-Linux-5.19.9-arch1-1-x86_64-with-glibc2.36 x86_64
-Ren'Py 8.0.1.22070801
+Windows-10-10.0.19044 AMD64
+Ren'Py 8.0.3.22090809
 ptagain 1.0
-Mon Sep 19 23:44:45 2022
+Tue Sep 20 00:06:37 2022

@@ -151,8 +151,8 @@ define config.save_directory = "ptagain-1663138799"
 ## The icon displayed on the taskbar or dock.
 
 define config.window_icon = "gui/window_icon.png"
-
-
+define gui.style.imagemap_button.hover_sound = "audio/button.wav"
+define config.mouse = {"default":[ ("images/cursor.png", 1, 1) ] }
 ## Build configuration #########################################################
 ##
 ## This section controls how Ren'Py turns your project into distribution files.

@@ -297,17 +297,17 @@ screen navigation():
 
         if main_menu:
 
-            textbutton _("Start") action Start()
+            textbutton _("start") action Start()
 
         else:
 
-            textbutton _("History") action ShowMenu("history")
+            textbutton _("history") action ShowMenu("history")
 
-            textbutton _("Save") action ShowMenu("save")
+            textbutton _("save") action ShowMenu("save")
 
-        textbutton _("Load") action ShowMenu("load")
+        textbutton _("load") action ShowMenu("load")
 
-        textbutton _("Preferences") action ShowMenu("preferences")
+        textbutton _("config") action ShowMenu("preferences")
 
         if _in_replay:
 
@@ -315,20 +315,20 @@ screen navigation():
 
         elif not main_menu:
 
-            textbutton _("Main Menu") action MainMenu()
+            textbutton _("main") action MainMenu()
 
-        textbutton _("About") action ShowMenu("about")
+        textbutton _("about") action ShowMenu("about")
 
         if renpy.variant("pc") or (renpy.variant("web") and not renpy.variant("mobile")):
 
             ## Help isn't necessary or relevant to mobile devices.
-            textbutton _("Help") action ShowMenu("help")
+            textbutton _("help") action ShowMenu("help")
 
         if renpy.variant("pc"):
 
             ## The quit button is banned on iOS and unnecessary on Android and
             ## Web.
-            textbutton _("Quit") action Quit(confirm=not main_menu)
+            textbutton _("log off") action Quit(confirm=not main_menu)
 
 
 style navigation_button is gui_button
@@ -510,7 +510,7 @@ style game_menu_navigation_frame:
     yfill True
 
 style game_menu_content_frame:
-    left_margin 20
+    left_margin 70
     right_margin 10
     top_margin 5
 
@@ -853,6 +853,7 @@ style check_button_text:
 
 style slider_slider:
     xsize 175
+    ysize 10
 
 style slider_button:
     properties gui.button_properties("slider_button")
