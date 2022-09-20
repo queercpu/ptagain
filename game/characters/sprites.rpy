@@ -1,3 +1,6 @@
+image candy sweet = "/images/candy_sweet.png"
+image candy deep = "/images/candy_deep.png"
+image candy explain = "/images/candy_explain.png"
 
 image chalice close1 = "/images/chalice close1.png" 
 image chalice close2 = "/images/chalice close2.png" 
