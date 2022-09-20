@@ -823,13 +823,13 @@ style mute_all_button_text is check_button_text
 
 style pref_label:
     top_margin gui.pref_spacing
-    bottom_margin 1
+    bottom_margin 10
 
 style pref_label_text:
-    yalign 1.0
+    yalign 1
 
 style pref_vbox:
-    xsize 113
+    xsize 230
 
 style radio_vbox:
     spacing gui.pref_button_spacing
