@@ -1,43 +1,49 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
-While processing the selected_color property of style button_text:
-  File "renpy/common/00start.rpy", line 83, in _init_language
-    renpy.change_language(language)
-  File "renpy/common/00stylepreferences.rpy", line 124, in _m1_00stylepreferences__change_language
-    __update()
-  File "renpy/common/00stylepreferences.rpy", line 96, in _m1_00stylepreferences__update
-    renpy.style.rebuild()
-Exception: Color string '00000' must be 3, 4, 6, or 8 hex digits long.
+While running game code:
+  File "game/script.rpy", line 17, in script
+    pause
+  File "renpy/common/000statements.rpy", line 455, in execute_pause
+    renpy.pause()
+OSError: Couldn't find file 'audio/chapelcandy.ogg'.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\bootstrap.py", line 277, in bootstrap
-    renpy.main.main()
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\main.py", line 660, in main
-    run(restart)
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\main.py", line 76, in run
-    renpy.translation.init_translation()
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\translation\__init__.py", line 583, in init_translation
-    renpy.store._init_language() # type: ignore
-  File "renpy/common/00start.rpy", line 83, in _init_language
-    renpy.change_language(language)
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\translation\__init__.py", line 672, in change_language
-    i()
-  File "renpy/common/00stylepreferences.rpy", line 124, in _m1_00stylepreferences__change_language
-    __update()
-  File "renpy/common/00stylepreferences.rpy", line 96, in _m1_00stylepreferences__update
-    renpy.style.rebuild()
-  File "style.pyx", line 796, in renpy.style.rebuild
-  File "style.pyx", line 789, in renpy.style.build_styles
-  File "style.pyx", line 710, in renpy.style.build_style
-  File "style.pyx", line 707, in renpy.style.build_style
-  File "gen3-static/style_selected_functions.pyx", line 251, in style_selected_functions.selected_color_property
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\color.py", line 167, in __new__
-    raise Exception("Color string {!r} must be 3, 4, 6, or 8 hex digits long.".format(c))
-Exception: Color string '00000' must be 3, 4, 6, or 8 hex digits long.
+  File "game/script.rpy", line 17, in script
+    pause
+  File "/home/cpu/renpy8/renpy/ast.py", line 2232, in execute
+    self.call("execute")
+  File "/home/cpu/renpy8/renpy/ast.py", line 2220, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "/home/cpu/renpy8/renpy/statements.py", line 281, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 455, in execute_pause
+    renpy.pause()
+  File "/home/cpu/renpy8/renpy/exports.py", line 1533, in pause
+    rv = renpy.ui.interact(mouse='pause', type='pause', roll_forward=roll_forward, pause=delay)
+  File "/home/cpu/renpy8/renpy/ui.py", line 299, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+  File "/home/cpu/renpy8/renpy/display/core.py", line 3377, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, **kwargs) # type: ignore
+  File "/home/cpu/renpy8/renpy/display/core.py", line 4097, in interact_core
+    renpy.audio.audio.periodic()
+  File "/home/cpu/renpy8/renpy/audio/audio.py", line 1166, in periodic
+    raise_(exc[0], exc[1], exc[2])
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python3.9/site-packages/future/utils/__init__.py", line 441, in raise_
+  File "/home/cpu/renpy8/renpy/audio/audio.py", line 1144, in periodic_thread_main
+    periodic_pass()
+  File "/home/cpu/renpy8/renpy/audio/audio.py", line 1086, in periodic_pass
+    c.periodic()
+  File "/home/cpu/renpy8/renpy/audio/audio.py", line 517, in periodic
+    topf = load(filename)
+  File "/home/cpu/renpy8/renpy/audio/audio.py", line 70, in load
+    rv = renpy.loader.load(fn)
+  File "/home/cpu/renpy8/renpy/loader.py", line 820, in load
+    raise IOError("Couldn't find file '%s'." % name)
+OSError: Couldn't find file 'audio/chapelcandy.ogg'.
 
-Windows-10-10.0.19044 AMD64
-Ren'Py 8.0.3.22090809
+Linux-5.19.9-arch1-1-x86_64-with-glibc2.36 x86_64
+Ren'Py 8.0.1.22070801
 ptagain 1.0
-Tue Sep 20 00:06:37 2022
+Tue Sep 20 00:32:36 2022

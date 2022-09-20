@@ -13,6 +13,7 @@ c "candy's very very long incessantly long statement. That breaks into two lines
 hide candy with dissolve
 pause
 scene chapel1 with dissolve
+play music "/audio/chapel.ogg"
 pause
 show candy test2 with dissolve
 pause
