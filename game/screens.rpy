@@ -360,10 +360,10 @@ screen main_menu():
         style "main_menu_frame"
 
 
-    imagebutton auto "gui/start_%s.png" xalign 0.5 yalign 0.4 focus_mask True action Start () hovered [ Play ("sound", "audio/button.wav") ]
-    imagebutton auto "gui/load_%s.png" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu("load") hovered [ Play ("sound", "audio/button.wav") ]
-    imagebutton auto "gui/config_%s.png" xalign 0.5 yalign 0.6 focus_mask True action ShowMenu("preferences") hovered [ Play ("sound", "audio/button.wav") ]
-    imagebutton auto "gui/logoff_%s.png" xalign 0.5 yalign 0.7 focus_mask True action Quit () hovered [ Play ("sound", "audio/button.wav") ]
+    imagebutton auto "gui/start_%s.png" xalign 0.5 yalign 0.4 focus_mask True action Start () hovered [ Play ("sound", "audio/button.ogg") ]
+    imagebutton auto "gui/load_%s.png" xalign 0.5 yalign 0.5 focus_mask True action ShowMenu("load") hovered [ Play ("sound", "audio/button.ogg") ]
+    imagebutton auto "gui/config_%s.png" xalign 0.5 yalign 0.6 focus_mask True action ShowMenu("preferences") hovered [ Play ("sound", "audio/button.ogg") ]
+    imagebutton auto "gui/logoff_%s.png" xalign 0.5 yalign 0.7 focus_mask True action Quit () hovered [ Play ("sound", "audio/button.ogg") ]
     
     ## The use statement includes another screen inside this one. The actual
     ## contents of the main menu are in the navigation screen.
