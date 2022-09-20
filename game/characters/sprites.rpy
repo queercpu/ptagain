@@ -11,3 +11,7 @@ image mayday close2 = "/images/mayday close1.png"
 
 image caution close1 = "/images/caution close.png" 
 image caution close2 = "/images/caution close1.png" 
+
+
+image candy test1 = "/images/candytest1.png"
+image candy test2 = "/images/candytest2.png"
