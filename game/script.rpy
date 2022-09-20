@@ -12,7 +12,15 @@ c "meow"
 c "candy's very very long incessantly long statement. That breaks into two lines..."
 hide candy with dissolve
 pause
-show candy test2 with hpunch
+scene chapel1 with dissolve
+pause
+show candy test2 with dissolve
+pause
+c "I'll join your detective club... only if..."
+c "you be my cubby twin!"
+c "and also..."
+c "be my best friend foreever!"
+scene black with dissolve
 pause
 
 return
