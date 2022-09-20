@@ -2,11 +2,8 @@
 label start:
 
 scene black with dissolve
+pause(1)
 
-
-show candy with dissolve
-pause
-c "please be my twin and my best friend."
 scene white with dissolve
 
 show candy close1 with dissolve
@@ -27,6 +24,6 @@ hide caution with dissolve
 show chalice close1 with dissolve
 pause 
 show chalice close2 with dissolve
-c "is it not ok?"
+pause
 
 return
