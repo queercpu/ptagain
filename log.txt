@@ -135,3 +135,395 @@ Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
 Maximum texture size: 4096x4096
 Screen sizes: virtual=(800, 600) physical=(1005, 754) drawable=(1005, 754)
 Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1005, 754) drawable=(1005, 754)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 216.77s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.03s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1005, 754) drawable=(1005, 754)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 230.43s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.03s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1005, 754) drawable=(1005, 754)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 322.14s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1005, 754) drawable=(1005, 754)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1005, 754) drawable=(1005, 754)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 441.05s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.03s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1005, 754) drawable=(1005, 754)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 453.22s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1005, 754) drawable=(1005, 754)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 472.90s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1005, 754) drawable=(1005, 754)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 477.78s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.03s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1005, 754) drawable=(1005, 754)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1014, 759) drawable=(1014, 759)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1050, 796) drawable=(1050, 796)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1075, 820) drawable=(1075, 820)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1105, 845) drawable=(1105, 845)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1125, 867) drawable=(1125, 867)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1153, 895) drawable=(1153, 895)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1178, 916) drawable=(1178, 916)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1192, 929) drawable=(1192, 929)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1200, 935) drawable=(1200, 935)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1199, 934) drawable=(1199, 934)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1199, 935) drawable=(1199, 935)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1206, 944) drawable=(1206, 944)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1205, 943) drawable=(1205, 943)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1211, 942) drawable=(1211, 942)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1217, 941) drawable=(1217, 941)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1220, 941) drawable=(1220, 941)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1225, 944) drawable=(1225, 944)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1226, 946) drawable=(1226, 946)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1228, 948) drawable=(1228, 948)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1230, 948) drawable=(1230, 948)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1231, 948) drawable=(1231, 948)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1233, 948) drawable=(1233, 948)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1236, 947) drawable=(1236, 947)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1237, 946) drawable=(1237, 946)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1238, 946) drawable=(1238, 946)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1241, 945) drawable=(1241, 945)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1244, 944) drawable=(1244, 944)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1246, 943) drawable=(1246, 943)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1248, 943) drawable=(1248, 943)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1251, 943) drawable=(1251, 943)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1251, 942) drawable=(1251, 942)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1252, 942) drawable=(1252, 942)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1253, 943) drawable=(1253, 943)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1256, 945) drawable=(1256, 945)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1257, 946) drawable=(1257, 946)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1258, 946) drawable=(1258, 946)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1259, 947) drawable=(1259, 947)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1259, 948) drawable=(1259, 948)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1259, 949) drawable=(1259, 949)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1260, 949) drawable=(1260, 949)
+Maximum texture size: 4096x4096

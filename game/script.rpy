@@ -24,7 +24,19 @@ c "its said that there is a physical threshold the body can take processing info
 c "but beyond the body, well...."
 pause
 show mayday heart with dissolve
-c "that's what I'm curious about!"
+c "that's what I'm interested in... because I noticed it first as an idol"
+show mayday talk with dissolve
+c "you can only be an idol so far, but what about idol without a body?"
+c "im not talking about spiritual....."
+show mayday deep with dissolve
+c "I never got into religion or any spiritual ideas... criminologies is very much..."
+c "A non spiritiual thing..."
+show mayday explain with dissolve
+c "maybe thats why its fate I went to hacking school."
+c "My ideas of body containers.."
+show mayday talk with dissolve
+c "maybe my ego has higher detective abilities than i do.."
+c "vice versa,,, my ego is able to be a better idol..."
 pause
 
 show candy explain with dissolve
