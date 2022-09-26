@@ -22,7 +22,6 @@ show mayday explain with dissolve
 c "in my criminologies studies... (my private one ofc)"
 c "its said that there is a physical threshold the body can take processing information"
 c "but beyond the body, well...."
-pause
 show mayday heart with dissolve
 c "that's what I'm interested in... because I noticed it first as an idol"
 show mayday talk with dissolve
@@ -37,17 +36,6 @@ c "My ideas of body containers.."
 show mayday talk with dissolve
 c "maybe my ego has higher detective abilities than i do.."
 c "vice versa,,, my ego is able to be a better idol..."
-pause
-
-show candy explain with dissolve
-pause
-c "I'll join your detective club... only if..."
-show candy deep with dissolve
-c "you be my cubby twin!"
-c "and also..."
-show candy sweet with hpunch
-c "be my best friend foreever!"
-scene black with dissolve
 pause
 
 return

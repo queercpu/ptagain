@@ -1,0 +1,30 @@
+sprite basic rules
+menu~ MUST FOR ALL 6 GIRLS
+
+
+number=variation of mouth and eyebrow
+ .. (*baseline* number!)
+
+############
+
+1."regular" --> 6
+	A. eyes open front x2 ~~~~ ..regopen 1 (serious), 2 (gentle smile)
+	B. eyes alt x2 
+	C. eyes closed x3 ~~~ ..regclosed (repeat A..)
+
+2. "happy" --> 2
+	A. triangle smile for all girl..x2 variations
+
+3. "frown" --> 4
+	A. sad face open eyes and closed eyes x2
+	B. crying mode x2
+
+4. "extreme expressions" -->3
+	A. anger x1
+	B. shock x1
+	C. smug x1
+
+5. "extra" -->1
+	A. at least x1
+
+total = 17 expressions BASE.
