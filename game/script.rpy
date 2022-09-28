@@ -24,7 +24,29 @@ mayday "its said that there is a physical threshold the body can take processing
 mayday "but beyond the body, well...."
 "...thought"
 show mayday heart with dissolve
-candy "that's what I'm interested in... because I noticed it first as an idol"
+candy "well what will it be? whales or moose?"
+scene black with dissolve
+pause(0.5)
+show coin_whale
+pause(5.5)
+show whaleframe
+pause(1)
+candy "whales!"
+candy "again..."
+scene black with dissolve
+pause(1)
+show coin_moose
+pause(5.5)
+show mooseframe
+pause(1)
+candy "moose!"
+candy "now look at my card......."
+scene black with dissolve
+pause(0.4)
+show candyegocardframe with easeinbottom
+show candyegocard
+pause
+candy "meowmeowmeowemowe"
 show mayday talk with dissolve
 mayday "you can only be an idol so far, but what about idol without a body?"
 mayday "im not talking about spiritual....."
