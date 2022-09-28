@@ -27,10 +27,14 @@ show mayday heart with dissolve
 candy "well what will it be? whales or moose?"
 scene black with dissolve
 pause(0.5)
+
+#showvideo
 show coin_whale
 pause(5.5)
 show whaleframe
 pause(1)
+
+
 candy "whales!"
 candy "again..."
 scene black with dissolve

@@ -695,3 +695,168 @@ Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
 Maximum texture size: 4096x4096
 Screen sizes: virtual=(800, 600) physical=(1064, 798) drawable=(1064, 798)
 Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 744.97s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1064, 798) drawable=(1064, 798)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1064, 798) drawable=(1064, 798)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1063, 798) drawable=(1063, 798)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1050, 788) drawable=(1050, 788)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1033, 774) drawable=(1033, 774)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1026, 771) drawable=(1026, 771)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1020, 767) drawable=(1020, 767)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1013, 762) drawable=(1013, 762)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(1005, 758) drawable=(1005, 758)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(991, 747) drawable=(991, 747)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(981, 739) drawable=(981, 739)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(976, 735) drawable=(976, 735)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(970, 729) drawable=(970, 729)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(961, 724) drawable=(961, 724)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(951, 717) drawable=(951, 717)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(942, 711) drawable=(942, 711)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(934, 706) drawable=(934, 706)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(927, 703) drawable=(927, 703)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(921, 700) drawable=(921, 700)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(916, 697) drawable=(916, 697)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(910, 693) drawable=(910, 693)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(901, 686) drawable=(901, 686)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(895, 681) drawable=(895, 681)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(890, 677) drawable=(890, 677)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(886, 674) drawable=(886, 674)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(882, 672) drawable=(882, 672)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(879, 669) drawable=(879, 669)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(875, 665) drawable=(875, 665)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(872, 663) drawable=(872, 663)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(870, 662) drawable=(870, 662)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(868, 660) drawable=(868, 660)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(865, 656) drawable=(865, 656)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(862, 653) drawable=(862, 653)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(860, 651) drawable=(860, 651)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(859, 649) drawable=(859, 649)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(855, 647) drawable=(855, 647)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(848, 642) drawable=(848, 642)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(843, 637) drawable=(843, 637)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(836, 632) drawable=(836, 632)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(832, 629) drawable=(832, 629)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(829, 627) drawable=(829, 627)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(823, 624) drawable=(823, 624)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(815, 620) drawable=(815, 620)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(811, 617) drawable=(811, 617)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(808, 616) drawable=(808, 616)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(806, 615) drawable=(806, 615)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(802, 613) drawable=(802, 613)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(799, 610) drawable=(799, 610)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(795, 608) drawable=(795, 608)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(794, 607) drawable=(794, 607)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(791, 606) drawable=(791, 606)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(788, 603) drawable=(788, 603)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(785, 600) drawable=(785, 600)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(782, 599) drawable=(782, 599)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(780, 597) drawable=(780, 597)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(777, 595) drawable=(777, 595)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(776, 595) drawable=(776, 595)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(776, 594) drawable=(776, 594)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(774, 589) drawable=(774, 589)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(773, 585) drawable=(773, 585)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(800, 600) physical=(772, 583) drawable=(772, 583)
+Maximum texture size: 4096x4096
