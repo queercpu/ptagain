@@ -1,16 +1,31 @@
-define mayday = Character(
+
+
+define candy = Character(
 None,
-ctc="orb_ctc_pause",
+ctc="spiral_ctc",
 kind=adv,
-ctc_position="anchor",
-what_style="gay",
+what_color="ccffff",
+ctc_position="fixed",
+#what_style="gay",
+
 )
 
-define c = Character(
+define mayday = Character(
 None,
-ctc="orb_ctc_pause",
+ctc="x_ctc",
 kind=adv,
-#ctc_position="nestled",
+what_color="ccff66",
+ctc_position="fixed",
+#what_style="gay",
+
+)
+
+define caution = Character(
+None,
+ctc="caution_ctc",
+kind=adv,
+what_color="ffff99",
+ctc_position="fixed",
 #what_style="gay",
 
 )

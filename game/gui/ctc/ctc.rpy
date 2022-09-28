@@ -87,3 +87,88 @@ image heart_ctc:
     #"/heartctc/0020.png"
     #sp
     repeat
+
+
+image x_ctc:
+    xalign 0.94 yalign 0.96
+    zoom 1.5
+    "/gui/ctc/x/cross1.png"
+    oo
+    "/gui/ctc/x/cross2.png"
+    oo
+    "/gui/ctc/x/cross3.png"
+    oo
+    "/gui/ctc/x/cross4.png"
+    oo
+    "/gui/ctc/x/cross5.png"
+    oo
+    "/gui/ctc/x/cross6.png"
+    oo
+    "/gui/ctc/x/cross7.png"
+    0.4
+    repeat
+
+
+image arrow_ctc:
+    xalign 0.94 yalign 0.96
+    zoom 1.2
+    "/gui/ctc/arrow/arrow1.png"
+    oo
+    "/gui/ctc/arrow/arrow2.png"
+    oo
+    "/gui/ctc/arrow/arrow3.png"
+    oo
+    "/gui/ctc/arrow/arrow4.png"
+    0.4
+    repeat
+
+
+image spiral_ctc:
+    xalign 0.94 yalign 0.96
+    zoom 1.2
+    "/gui/ctc/spiral/1.png"
+    oo
+    "/gui/ctc/spiral/2.png"
+    oo
+    "/gui/ctc/spiral/3.png"
+    oo
+    "/gui/ctc/spiral/4.png"
+    oo
+    "/gui/ctc/spiral/5.png"
+    oo
+    "/gui/ctc/spiral/6.png"
+    oo
+    "/gui/ctc/spiral/7.png"
+    oo
+    "/gui/ctc/spiral/8.png"
+    oo
+    "/gui/ctc/spiral/9.png"
+    oo
+    "/gui/ctc/spiral/10.png"
+    oo
+    "/gui/ctc/spiral/12.png"
+    oo
+    "/gui/ctc/spiral/13.png"
+
+    0.9
+    repeat
+
+
+image caution_ctc:
+    xalign 0.94 yalign 0.96
+    zoom 1.2
+    "/gui/ctc/warning/1.png"
+    oo
+    "/gui/ctc/warning/2.png"
+    oo
+    "/gui/ctc/warning/3.png"
+    oo
+    "/gui/ctc/warning/4.png"
+    oo
+    "/gui/ctc/warning/5.png"
+    oo
+    "/gui/ctc/warning/6.png"
+    oo 
+    "/gui/ctc/warning/1.png"
+    0.9
+    repeat
