@@ -3,6 +3,7 @@
 define candy = Character(
 None,
 ctc="spiral_ctc",
+callback=beep,
 kind=adv,
 what_color="ccffff",
 ctc_position="fixed",
@@ -14,6 +15,7 @@ define mayday = Character(
 None,
 ctc="x_ctc",
 kind=adv,
+callback=beep,
 what_color="ccff66",
 ctc_position="fixed",
 #what_style="gay",
@@ -23,12 +25,14 @@ ctc_position="fixed",
 define caution = Character(
 None,
 ctc="caution_ctc",
+callback=beep,
 kind=adv,
 what_color="ffff99",
 ctc_position="fixed",
 #what_style="gay",
 
 )
+<<<<<<< HEAD
 
 define valentina = Character(
 None,
@@ -49,3 +53,5 @@ ctc_position="fixed",
 #what_style="gay",
 
 )
+=======
+>>>>>>> 337f59ab61f7dc43115bdc49abf4023d899fa906

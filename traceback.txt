@@ -1,13 +1,24 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
+<<<<<<< HEAD
   File "game/script.rpy", line 68, in script
     valetina "just take it"
 Exception: Sayer 'valetina' is not defined.
+=======
+  File "game/characters/characters.rpy", line 3, in script
+    define candy = Character(
+  File "game/characters/characters.rpy", line 3, in script
+    define candy = Character(
+  File "game/characters/characters.rpy", line 6, in <module>
+    callback=beep,
+NameError: name 'beep' is not defined
+>>>>>>> 337f59ab61f7dc43115bdc49abf4023d899fa906
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
+<<<<<<< HEAD
   File "game/script.rpy", line 68, in script
     valetina "just take it"
   File "D:\renpy\renpy-7.3.5-sdk\renpy\ast.py", line 881, in execute
@@ -15,8 +26,32 @@ Full traceback:
   File "D:\renpy\renpy-7.3.5-sdk\renpy\ast.py", line 774, in eval_who
     raise Exception("Sayer '%s' is not defined." % who)
 Exception: Sayer 'valetina' is not defined.
+=======
+  File "/home/cpu/renpy8/renpy/bootstrap.py", line 274, in bootstrap
+    renpy.main.main()
+  File "/home/cpu/renpy8/renpy/main.py", line 558, in main
+    renpy.game.context().run(node)
+  File "game/characters/characters.rpy", line 3, in script
+    define candy = Character(
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python3.9/site-packages/future/utils/__init__.py", line 441, in raise_
+  File "game/characters/characters.rpy", line 3, in script
+    define candy = Character(
+  File "/home/cpu/renpy8/renpy/ast.py", line 2441, in execute
+    self.set()
+  File "/home/cpu/renpy8/renpy/ast.py", line 2455, in set
+    value = renpy.python.py_eval_bytecode(self.code.bytecode)
+  File "/home/cpu/renpy8/renpy/python.py", line 1073, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/characters/characters.rpy", line 6, in <module>
+    callback=beep,
+NameError: name 'beep' is not defined
+>>>>>>> 337f59ab61f7dc43115bdc49abf4023d899fa906
 
-Windows-10-10.0.19044 AMD64
-Ren'Py 8.0.3.22090809
+Linux-5.19.9-arch1-1-x86_64-with-glibc2.36 x86_64
+Ren'Py 8.0.1.22070801
 ptagain 1.0
+<<<<<<< HEAD
 Thu Sep 29 21:51:19 2022
+=======
+Thu Sep 29 21:39:31 2022
+>>>>>>> 337f59ab61f7dc43115bdc49abf4023d899fa906
