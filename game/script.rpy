@@ -64,6 +64,10 @@ show mayday talk with dissolve
 mayday "maybe my ego has higher detective abilities than i do.."
 mayday "vice versa,,, my ego is able to be a better idol..."
 caution "student..council..stu..d...e...."
+valentina "strawberrydeal deal"
+valentina "just take it"
+chalice "lesson learned.."
+chalice "hah"
 pause
 
 return

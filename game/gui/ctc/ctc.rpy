@@ -155,7 +155,7 @@ image spiral_ctc:
 
 
 image caution_ctc:
-    xalign 0.94 yalign 0.96
+    xalign 0.94 yalign 0.94
     zoom 1.2
     "/gui/ctc/warning/1.png"
     oo
@@ -171,4 +171,29 @@ image caution_ctc:
     oo 
     "/gui/ctc/warning/1.png"
     0.9
+    repeat
+
+image diamond_ctc:
+    xalign 0.94 yalign 0.94
+    zoom 1.2
+    "/gui/ctc/diamond/1.png"
+    oo
+    "/gui/ctc/diamond/2.png"
+    oo
+    "/gui/ctc/diamond/3.png"
+    0.4
+    repeat
+
+
+define aple=0.5
+image apple_ctc:
+    xalign 0.94 yalign 0.96
+    alpha 5
+    zoom 1.5
+    "/gui/ctc/apple/1apple.png"
+    aple
+    "/gui/ctc/apple/2apple.png"
+    aple
+    "/gui/ctc/apple/3apple.png"
+    1.0
     repeat

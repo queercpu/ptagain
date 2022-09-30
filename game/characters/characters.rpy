@@ -29,3 +29,23 @@ ctc_position="fixed",
 #what_style="gay",
 
 )
+
+define valentina = Character(
+None,
+ctc="diamond_ctc",
+kind=adv,
+what_color="ffccff",
+ctc_position="fixed",
+#what_style="gay",
+
+)
+
+define chalice = Character(
+None,
+ctc="apple_ctc",
+kind=adv,
+what_color="ff0000",
+ctc_position="fixed",
+#what_style="gay",
+
+)
