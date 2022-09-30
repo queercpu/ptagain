@@ -32,7 +32,6 @@ ctc_position="fixed",
 #what_style="gay",
 
 )
-<<<<<<< HEAD
 
 define valentina = Character(
 None,
@@ -53,5 +52,3 @@ ctc_position="fixed",
 #what_style="gay",
 
 )
-=======
->>>>>>> 337f59ab61f7dc43115bdc49abf4023d899fa906

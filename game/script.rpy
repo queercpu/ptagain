@@ -4,6 +4,19 @@ label start:
 scene black with dissolve
 pause(1)
 
+scene chapeltest3 with dissolve
+pause
+show candysweetheart4 at left with dissolve
+pause
+scene chapeltest2 with dissolve
+show candysweetheart4 with dissolve
+pause
+scene chapeltest3 with dissolve
+show candysweetheart4 at right with dissolve
+pause
+scene chapeltest1 with dissolve
+show candysweetheart4 with dissolve
+
 scene white with dissolve
 
 show candy test1 with dissolve
