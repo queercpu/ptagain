@@ -1,74 +1,37 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-<<<<<<< HEAD
-  File "game/script.rpy", line 11, in script
-    candy "meow"
-  File "game/audio/callback/beep.rpy", line 4, in beep
-    renpy.music.play("/audio/callback/beep44.ogg", channel="beep", loop=True)
-Exception: Audio channel 'beep' is unknown.
-=======
-  File "renpy/common/00start.rpy", line 240, in script call
-    call _splashscreen from _call_splashscreen_1
-  File "game/characters/splashscreen.rpy", line 6, in script
-    pause (3,hard=True)
-  File "renpy/common/000statements.rpy", line 449, in execute_pause
-    delay = eval(p["delay"])
-SyntaxError: invalid syntax (game/characters/splashscreen.rpy, line 6)
->>>>>>> 2d63e01d942583433bd2ebcbafd50e7d03a8b925
+  File "game/characters/characters.rpy", line 3, in script
+    define candy = Character(
+  File "game/characters/characters.rpy", line 3, in script
+    define candy = Character(
+  File "game/characters/characters.rpy", line 6, in <module>
+    callback=beep,
+NameError: name 'beep' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-<<<<<<< HEAD
-  File "game/script.rpy", line 11, in script
-    candy "meow"
-  File "/home/cpu/renpy8/renpy/ast.py", line 921, in execute
-    renpy.exports.say(who, what, *args, **kwargs)
-  File "/home/cpu/renpy8/renpy/exports.py", line 1373, in say
-    who(what, *args, **kwargs)
-  File "/home/cpu/renpy8/renpy/character.py", line 1266, in __call__
-    self.do_display(who, what, cb_args=self.cb_args, dtt=dtt, **display_args)
-  File "/home/cpu/renpy8/renpy/character.py", line 927, in do_display
-    display_say(who,
-  File "/home/cpu/renpy8/renpy/character.py", line 602, in display_say
-    c("show", interact=interact, type=type, **cb_args)
-  File "game/audio/callback/beep.rpy", line 4, in beep
-    renpy.music.play("/audio/callback/beep44.ogg", channel="beep", loop=True)
-  File "/home/cpu/renpy8/renpy/audio/music.py", line 103, in play
-    c = get_channel(channel)
-  File "/home/cpu/renpy8/renpy/audio/audio.py", line 915, in get_channel
-    raise Exception("Audio channel %r is unknown." % name)
-Exception: Audio channel 'beep' is unknown.
-=======
-  File "renpy/common/00start.rpy", line 240, in script call
-    call _splashscreen from _call_splashscreen_1
-  File "game/characters/splashscreen.rpy", line 6, in script
-    pause (3,hard=True)
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\ast.py", line 2232, in execute
-    self.call("execute")
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\ast.py", line 2220, in call
-    return renpy.statements.call(method, parsed, *args, **kwargs)
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\statements.py", line 281, in call
-    return method(parsed, *args, **kwargs)
-  File "renpy/common/000statements.rpy", line 449, in execute_pause
-    delay = eval(p["delay"])
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\python.py", line 1090, in py_eval
-    code = py_compile(code, 'eval')
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\python.py", line 1027, in py_compile
-    raise e
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\python.py", line 979, in py_compile
-    raise orig_e
-  File "D:\renpy\renpy-7.3.5-sdk\renpy\python.py", line 972, in py_compile
-    tree = compile(source, filename, py_mode, ast.PyCF_ONLY_AST | flags, 1)
-SyntaxError: invalid syntax (game/characters/splashscreen.rpy, line 6)
->>>>>>> 2d63e01d942583433bd2ebcbafd50e7d03a8b925
+  File "/home/cpu/renpy8/renpy/bootstrap.py", line 274, in bootstrap
+    renpy.main.main()
+  File "/home/cpu/renpy8/renpy/main.py", line 558, in main
+    renpy.game.context().run(node)
+  File "game/characters/characters.rpy", line 3, in script
+    define candy = Character(
+  File "/home/tom/ab/renpy-build/tmp/install.linux-x86_64/lib/python3.9/site-packages/future/utils/__init__.py", line 441, in raise_
+  File "game/characters/characters.rpy", line 3, in script
+    define candy = Character(
+  File "/home/cpu/renpy8/renpy/ast.py", line 2441, in execute
+    self.set()
+  File "/home/cpu/renpy8/renpy/ast.py", line 2455, in set
+    value = renpy.python.py_eval_bytecode(self.code.bytecode)
+  File "/home/cpu/renpy8/renpy/python.py", line 1073, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/characters/characters.rpy", line 6, in <module>
+    callback=beep,
+NameError: name 'beep' is not defined
 
 Linux-5.19.9-arch1-1-x86_64-with-glibc2.36 x86_64
 Ren'Py 8.0.1.22070801
 ptagain 1.0
-<<<<<<< HEAD
-Thu Sep 29 21:33:49 2022
-=======
-Thu Sep 29 21:22:53 2022
->>>>>>> 2d63e01d942583433bd2ebcbafd50e7d03a8b925
+Thu Sep 29 21:39:31 2022
