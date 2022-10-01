@@ -8,4 +8,8 @@ label splashscreen:
     pause 1
     scene black with dissolve
     pause .5
-    scene title with dissolve
+    show intro
+    pause 4.1
+    show menuframe
+    pause 1
+    

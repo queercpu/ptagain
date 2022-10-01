@@ -2,9 +2,11 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 51: end of line expected.
-    show candynew with dissolve at left
-                                ^
+The label splashscreen is defined twice, at File "game/characters/splashscreen.rpy", line 1:
+label splashscreen:
+and File "game/splash.rpy", line 1:
+label splashscreen:
+
 
 Ren'Py Version: Ren'Py 8.0.1.22070801
-Fri Sep 30 15:30:27 2022
+Sat Oct  1 15:58:19 2022
