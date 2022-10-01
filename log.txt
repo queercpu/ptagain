@@ -1,4 +1,4 @@
-Fri Sep 30 15:14:12 2022
+Fri Sep 30 21:49:00 2022
 Linux-5.19.9-arch1-1-x86_64-with-glibc2.36
 Ren'Py 8.0.1.22070801
  
@@ -44,20 +44,8 @@ Version: b'4.6.0 NVIDIA 515.65.01'
 Display Info: None
 Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
 Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 266.35s
+Bootstrap to the start of init.init took 454.53s
 Early init took 0.00s
 Loader init took 0.00s
 Loading error handling took 0.01s
@@ -80,9 +68,9 @@ Cleaning stores took 0.00s
 Init translation took 0.02s
 Build styles took 0.00s
 Load screen analysis took 0.00s
-Analyze screens took 0.01s
+Analyze screens took 0.00s
 Save screen analysis took 0.01s
-Prepare screens took 0.03s
+Prepare screens took 0.02s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.01s
 Running _start took 0.00s
@@ -100,7 +88,7 @@ Display Info: None
 Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
 Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 302.04s
+Bootstrap to the start of init.init took 477.26s
 Early init took 0.00s
 Loader init took 0.00s
 Loading error handling took 0.01s
@@ -124,7 +112,7 @@ Build styles took 0.00s
 Load screen analysis took 0.01s
 Analyze screens took 0.00s
 Save screen analysis took 0.00s
-Prepare screens took 0.03s
+Prepare screens took 0.02s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
 Running _start took 0.00s
@@ -141,464 +129,8 @@ Version: b'4.6.0 NVIDIA 515.65.01'
 Display Info: None
 Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
 Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 386.20s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 432.87s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 439.02s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 440.61s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.03s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 535.82s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 545.01s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 546.69s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 568.03s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 637.97s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.03s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 819.69s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 836.39s
+Bootstrap to the start of init.init took 489.46s
 Early init took 0.00s
 Loader init took 0.00s
 Loading error handling took 0.01s
@@ -638,429 +170,11 @@ Vendor: "b'NVIDIA Corporation'"
 Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
 Version: b'4.6.0 NVIDIA 515.65.01'
 Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 854.53s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 871.18s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 971.88s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 51: end of line expected.
-    show candynew with dissolve at left
-                                ^
-
-File "game/script.rpy", line 52: expected statement.
-    move chaliceside at right
-                     ^
-DPI scale factor: 1.000000
-Interface start took 0.04s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 975.04s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-
-File "game/script.rpy", line 51: end of line expected.
-    show candynew with dissolve at left
-                                ^
-DPI scale factor: 1.000000
-Interface start took 0.03s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 987.16s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.01s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 1028.51s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 1111.17s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 1118.87s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 1138.50s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 1669.96s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
 Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
 Maximum texture size: 4096x4096
 
 Full traceback:
-  File "game/script.rpy", line 45, in script
+  File "game/script.rpy", line 72, in script
     pause
   File "/home/cpu/renpy8/renpy/ast.py", line 2232, in execute
     self.call("execute")
@@ -1114,16 +228,16 @@ Full traceback:
     filelike = renpy.loader.load(self.filename)
   File "/home/cpu/renpy8/renpy/loader.py", line 820, in load
     raise IOError("Couldn't find file '%s'." % name)
-OSError: Couldn't find file 'images/candy/candysweetheart4.png'.
+OSError: Couldn't find file 'images/chalice_apple1.png'.
 
-While loading <renpy.display.im.Image object ('…candysweetheart4.png') at 0x7f8ddaa6b670>:
-  File "game/script.rpy", line 45, in script
+While loading <renpy.display.im.Image object ('…s/chalice_apple1.png') at 0x7fefa1444f40>:
+  File "game/script.rpy", line 72, in script
     pause
   File "renpy/common/000statements.rpy", line 455, in execute_pause
     renpy.pause()
-OSError: Couldn't find file 'images/candy/candysweetheart4.png'.
+OSError: Couldn't find file 'images/chalice_apple1.png'.
 Resetting cache.
-Bootstrap to the start of init.init took 9819.78s
+Bootstrap to the start of init.init took 554.33s
 Early init took 0.00s
 Loader init took 0.00s
 Loading error handling took 0.01s
@@ -1166,7 +280,7 @@ Display Info: None
 Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
 Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 9899.59s
+Bootstrap to the start of init.init took 565.02s
 Early init took 0.00s
 Loader init took 0.00s
 Loading error handling took 0.01s
@@ -1189,11 +303,11 @@ Cleaning stores took 0.00s
 Init translation took 0.02s
 Build styles took 0.00s
 Load screen analysis took 0.00s
-Analyze screens took 0.01s
+Analyze screens took 0.00s
 Save screen analysis took 0.01s
 Prepare screens took 0.03s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
+Save bytecode. took 0.01s
 Running _start took 0.00s
 Performance test:
 Interface start took 0.02s
@@ -1209,50 +323,7 @@ Display Info: None
 Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
 Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 9907.22s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 9922.37s
+Bootstrap to the start of init.init took 604.25s
 Early init took 0.00s
 Loader init took 0.00s
 Loading error handling took 0.01s
@@ -1295,7 +366,7 @@ Display Info: None
 Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
 Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 9952.51s
+Bootstrap to the start of init.init took 628.42s
 Early init took 0.00s
 Loader init took 0.00s
 Loading error handling took 0.01s
@@ -1338,7 +409,7 @@ Display Info: None
 Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
 Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 9960.20s
+Bootstrap to the start of init.init took 651.10s
 Early init took 0.00s
 Loader init took 0.00s
 Loading error handling took 0.01s
@@ -1381,7 +452,7 @@ Display Info: None
 Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
 Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 9973.86s
+Bootstrap to the start of init.init took 744.33s
 Early init took 0.00s
 Loader init took 0.00s
 Loading error handling took 0.01s
@@ -1424,50 +495,7 @@ Display Info: None
 Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
 Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 9993.54s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 10025.20s
+Bootstrap to the start of init.init took 753.52s
 Early init took 0.00s
 Loader init took 0.00s
 Loading error handling took 0.01s
@@ -1510,11 +538,11 @@ Display Info: None
 Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
 Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 10208.97s
+Bootstrap to the start of init.init took 765.69s
 Early init took 0.00s
 Loader init took 0.00s
 Loading error handling took 0.01s
-Loading script took 0.03s
+Loading script took 0.04s
 Loading save slot metadata. took 0.00s
 Loading persistent took 0.00s
 Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
@@ -1522,6 +550,7 @@ Running init code took 0.02s
 Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
 Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
 Dump and make backups. took 0.02s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
@@ -1530,241 +559,1175 @@ DPI scale factor: 1.000000
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
 Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 771.89s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 805.12s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 895.51s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 909.24s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 972.96s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1000.17s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1030.45s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1050.10s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1105.82s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1338.83s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1579.26s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1621.45s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1648.61s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 134, in script
+    show candy cutelean with dissolve
+  File "/home/cpu/renpy8/renpy/ast.py", line 1658, in execute
+    renpy.exports.with_statement(trans, paired=paired)
+  File "/home/cpu/renpy8/renpy/exports.py", line 1653, in with_statement
+    return renpy.game.interface.do_with(trans, paired, clear=clear)
+  File "/home/cpu/renpy8/renpy/display/core.py", line 2798, in do_with
+    return self.interact(trans_pause=True,
+  File "/home/cpu/renpy8/renpy/display/core.py", line 3377, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, **kwargs) # type: ignore
+  File "/home/cpu/renpy8/renpy/display/core.py", line 3906, in interact_core
+    self.draw_screen(root_widget, fullscreen_video, (not fullscreen_video) or video_frame_drawn)
+  File "/home/cpu/renpy8/renpy/display/core.py", line 2602, in draw_screen
+    surftree = renpy.display.render.render_screen(
+  File "render.pyx", line 495, in renpy.display.render.render_screen
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/layout.py", line 884, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/transition.py", line 378, in render
+    top = render(self.new_widget, width, height, st, at)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/layout.py", line 884, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/layout.py", line 884, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/transform.py", line 747, in render
+    return transform_render(self, width, height, st, at)
+  File "accelerator.pyx", line 187, in renpy.display.accelerator.transform_render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/image.py", line 505, in render
+    return wrap_render(self.target, width, height, st, at)
+  File "/home/cpu/renpy8/renpy/display/image.py", line 308, in wrap_render
+    rend = render(child, w, h, st, at)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/im.py", line 627, in render
+    return cache.get(self, render=True)
+  File "/home/cpu/renpy8/renpy/display/im.py", line 295, in get
+    surf = image.load()
+  File "/home/cpu/renpy8/renpy/display/im.py", line 723, in load
+    raise e
+  File "/home/cpu/renpy8/renpy/display/im.py", line 688, in load
+    filelike = renpy.loader.load(self.filename)
+  File "/home/cpu/renpy8/renpy/loader.py", line 820, in load
+    raise IOError("Couldn't find file '%s'." % name)
+OSError: Couldn't find file 'images/candy/candy_2.png'.
+
+While loading <renpy.display.im.Image object ('…es/candy/candy_2.png') at 0x7fefa23becd0>:
+  File "game/script.rpy", line 134, in script
+    show candy cutelean with dissolve
+OSError: Couldn't find file 'images/candy/candy_2.png'.
+Resetting cache.
+Bootstrap to the start of init.init took 1669.81s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1707.51s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1844.29s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/script.rpy", line 153, in script
+    show candy standclosed with dissolve
+  File "/home/cpu/renpy8/renpy/ast.py", line 1658, in execute
+    renpy.exports.with_statement(trans, paired=paired)
+  File "/home/cpu/renpy8/renpy/exports.py", line 1653, in with_statement
+    return renpy.game.interface.do_with(trans, paired, clear=clear)
+  File "/home/cpu/renpy8/renpy/display/core.py", line 2798, in do_with
+    return self.interact(trans_pause=True,
+  File "/home/cpu/renpy8/renpy/display/core.py", line 3377, in interact
+    repeat, rv = self.interact_core(preloads=preloads, trans_pause=trans_pause, pause=pause, pause_start=pause_start, **kwargs) # type: ignore
+  File "/home/cpu/renpy8/renpy/display/core.py", line 3906, in interact_core
+    self.draw_screen(root_widget, fullscreen_video, (not fullscreen_video) or video_frame_drawn)
+  File "/home/cpu/renpy8/renpy/display/core.py", line 2602, in draw_screen
+    surftree = renpy.display.render.render_screen(
+  File "render.pyx", line 495, in renpy.display.render.render_screen
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/layout.py", line 884, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/transition.py", line 378, in render
+    top = render(self.new_widget, width, height, st, at)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/layout.py", line 884, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/layout.py", line 884, in render
+    surf = render(child, width, height, cst, cat)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/transform.py", line 747, in render
+    return transform_render(self, width, height, st, at)
+  File "accelerator.pyx", line 187, in renpy.display.accelerator.transform_render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/image.py", line 505, in render
+    return wrap_render(self.target, width, height, st, at)
+  File "/home/cpu/renpy8/renpy/display/image.py", line 308, in wrap_render
+    rend = render(child, w, h, st, at)
+  File "render.pyx", line 170, in renpy.display.render.render
+  File "render.pyx", line 266, in renpy.display.render.render
+  File "/home/cpu/renpy8/renpy/display/im.py", line 627, in render
+    return cache.get(self, render=True)
+  File "/home/cpu/renpy8/renpy/display/im.py", line 295, in get
+    surf = image.load()
+  File "/home/cpu/renpy8/renpy/display/im.py", line 723, in load
+    raise e
+  File "/home/cpu/renpy8/renpy/display/im.py", line 688, in load
+    filelike = renpy.loader.load(self.filename)
+  File "/home/cpu/renpy8/renpy/loader.py", line 820, in load
+    raise IOError("Couldn't find file '%s'." % name)
+OSError: Couldn't find file 'images/candy/candy_stand.png'.
+
+While loading <renpy.display.im.Image object ('…andy/candy_stand.png') at 0x7fefa28dbe20>:
+  File "game/script.rpy", line 153, in script
+    show candy standclosed with dissolve
+OSError: Couldn't find file 'images/candy/candy_stand.png'.
+Resetting cache.
+Bootstrap to the start of init.init took 1859.51s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1873.20s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1882.41s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Can't find a place to rollback to. Not rolling back.
+Can't find a place to rollback to. Not rolling back.
+Can't find a place to rollback to. Not rolling back.
+Can't find a place to rollback to. Not rolling back.
+Can't find a place to rollback to. Not rolling back.
+Can't find a place to rollback to. Not rolling back.
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Bootstrap to the start of init.init took 1986.46s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 1991.15s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 2117.52s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 2143.23s
+Early init took 0.00s
+Loader init took 0.00s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata. took 0.00s
+Loading persistent took 0.00s
+Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to '/home/cpu/.renpy/backups/_pt':
+Dump and make backups. took 0.02s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.02s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 560, 2560, 1440)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 515.65.01'
+Display Info: None
+Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
 Build styles took 0.00s
 Load screen analysis took 0.01s
 Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
+Prepare screens took 0.00s
 Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
 
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 10223.85s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.03s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
+Full traceback:
+  File "game/script.rpy", line 170, in script
+    show mayday talk with dissolve
+  File "/home/cpu/renpy8/renpy/ast.py", line 1408, in execute
+    show_imspec(self.imspec, atl=getattr(self, "atl", None))
+  File "/home/cpu/renpy8/renpy/ast.py", line 1371, in show_imspec
+    renpy.config.show(name,
+  File "/home/cpu/renpy8/renpy/exports.py", line 686, in show
+    if not base.find_target() and renpy.config.missing_show:
+  File "/home/cpu/renpy8/renpy/display/image.py", line 413, in find_target
+    self.target = target._duplicate(a)
+  File "/home/cpu/renpy8/renpy/display/core.py", line 397, in _duplicate
+    args.extraneous()
+  File "/home/cpu/renpy8/renpy/display/core.py", line 265, in extraneous
+    raise Exception("Image '{}' does not accept attributes '{}'.".format(
+Exception: Image 'mayday' does not accept attributes 'talk'.
 
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(2560, 1440) drawable=(2560, 1440)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 10263.39s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.03s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.01s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 10293.55s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.01s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 10311.91s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
-Resetting cache.
-Bootstrap to the start of init.init took 10321.06s
-Early init took 0.00s
-Loader init took 0.00s
-Loading error handling took 0.01s
-Loading script took 0.04s
-Loading save slot metadata. took 0.00s
-Loading persistent took 0.00s
-Faled to initialize steam: OSError('/home/cpu/renpy8/lib/py3-linux-x86_64/libsteam_api.so: cannot open shared object file: No such file or directory')
-Running init code took 0.02s
-Loading analysis data took 0.01s
-Analyze and compile ATL took 0.00s
-Index archives took 0.00s
-Backing up script files to '/home/cpu/.renpy/backups/_pt':
-Dump and make backups. took 0.02s
-Cleaning cache took 0.00s
-Making clean stores took 0.00s
-Initial gc. took 0.02s
-DPI scale factor: 1.000000
-Creating interface object took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.02s
-Build styles took 0.00s
-Load screen analysis took 0.00s
-Analyze screens took 0.01s
-Save screen analysis took 0.01s
-Prepare screens took 0.03s
-Save pyanalysis. took 0.00s
-Save bytecode. took 0.01s
-Running _start took 0.00s
-Performance test:
-Interface start took 0.02s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 560, 2560, 1440)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'NVIDIA Corporation'"
-Renderer: b'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
-Version: b'4.6.0 NVIDIA 515.65.01'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(1315, 986) drawable=(1315, 986)
-Maximum texture size: 4096x4096
+While running game code:
+  File "game/script.rpy", line 170, in script
+    show mayday talk with dissolve
+Exception: Image 'mayday' does not accept attributes 'talk'.
