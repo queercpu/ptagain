@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 9: end of line expected.
-    show candysweetheart4 with dissolve at left
-                                        ^
+File "game/script.rpy", line 51: end of line expected.
+    show candynew with dissolve at left
+                                ^
 
 Ren'Py Version: Ren'Py 8.0.1.22070801
-Fri Sep 30 15:07:24 2022
+Fri Sep 30 15:30:27 2022

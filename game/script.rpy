@@ -4,43 +4,61 @@ label start:
 scene black with dissolve
 pause(1)
 
-scene chapeltest3 with dissolve
+scene chapeltest3
+show softblack
+with dissolve
+show candysweetheart4 at left
+show chalicesweet
+show maydaysweet at right
 pause
-show candysweetheart4 at left with dissolve
-pause
+
 scene chapeltest2 with dissolve
-show candysweetheart4 with dissolve
+show candysweetheart4 at left
+show chalicesweet
+show maydaysweet at right
+with dissolve
 pause
+
 scene chapeltest3 with dissolve
-show candysweetheart4 at right with dissolve
+show candysweetheart4 at left
+show chalicesweet
+show maydaysweet at right
+with dissolve
 pause
+
 scene chapeltest1 with dissolve
-show candysweetheart4 with dissolve
+show candysweetheart4 at left
+show chalicesweet
+show maydaysweet at right
+with dissolve
+pause
 
-scene white with dissolve
+scene chapeltest4 with dissolve
+show candysweetheart4 at left
+with dissolve
+pause
+show chalicesweet
+with dissolve
+pause
+show maydaysweet at right
+with dissolve
+pause
 
-show candy test1 with dissolve
+
+scene chapeltest4 with dissolve
+show chaliceside with dissolve
+chalice "you are a bad student"
+show candynew at left with dissolve
+show chaliceside at right with dissolve
+candy "sofa is gay"
+show maydaynew with easeinleft
+mayday "okok"
+scene chapeltest4 with dissolve
 pause
-candy "meow"
-candy "candy's very very long incessantly long statement. That breaks into two lines..."
-hide candy with dissolve
-pause
-scene chapel1 with dissolve
-play music "/audio/chapel2.ogg"
-pause
-show mayday deep with dissolve
-pause
-candy "clues... do they have material weight like food ?"
-show mayday explain with dissolve
-mayday "in my criminologies studies... (my private one ofc)"
-mayday "its said that there is a physical threshold the body can take processing information"
-mayday "but beyond the body, well...."
-"...thought"
-show mayday heart with dissolve
-candy "well what will it be? whales or moose?"
+show maydaydetect with dissolve
+mayday "I guess we can flip a coin..."
 scene black with dissolve
-pause(0.5)
-
+pause
 #showvideo
 show coin_whale
 pause(5.5)
@@ -51,7 +69,7 @@ pause(1)
 candy "whales!"
 candy "again..."
 scene black with dissolve
-pause(1)
+pause
 show coin_moose
 pause(5.5)
 show mooseframe

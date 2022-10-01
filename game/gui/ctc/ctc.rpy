@@ -185,7 +185,7 @@ image diamond_ctc:
     repeat
 
 
-define aple=0.5
+define aple=0.35
 image apple_ctc:
     xalign 0.94 yalign 0.96
     alpha 5
@@ -195,5 +195,5 @@ image apple_ctc:
     "/gui/ctc/apple/2apple.png"
     aple
     "/gui/ctc/apple/3apple.png"
-    1.0
+    aple
     repeat
