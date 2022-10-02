@@ -4,7 +4,7 @@ label start:
 scene black with dissolve
 pause(1)
 
-show ahoy
+show bluetitle
 play music "/audio/churchy.ogg"
 pause
 
@@ -63,7 +63,7 @@ pause(1)
 candy "whales!"
 candy "again..."
 
-scene ahoy2
+scene greentitle
 pause
 scene chapeltest4 with dissolve
 show chalice applethink with dissolve
@@ -122,7 +122,7 @@ show mooseframe
 pause(1)
 candy "moose!"
 
-show ahoy3 
+show redtitle
 pause
 scene chapeltest4 with dissolve
 show candy blush with dissolve
