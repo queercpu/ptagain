@@ -11,6 +11,16 @@ ctc_position="fixed",
 
 )
 
+define maydayn = Character(
+None,
+ctc="x_ctc",
+kind=nvl,
+callback=beep,
+#what_color="ccff66",
+what_color="ccffff",
+ctc_position="nestled",
+)
+
 define mayday = Character(
 None,
 ctc="x_ctc",
@@ -19,8 +29,6 @@ callback=beep,
 #what_color="ccff66",
 what_color="ccffff",
 ctc_position="fixed",
-#what_style="gay",
-
 )
 
 define caution = Character(

@@ -5,6 +5,7 @@ scene black with dissolve
 pause(1)
 
 show bluetitle
+show flash
 play music "/audio/churchy.ogg"
 pause
 
@@ -64,6 +65,7 @@ candy "whales!"
 candy "again..."
 
 scene greentitle
+show flash
 pause
 scene chapeltest4 with dissolve
 show chalice applethink with dissolve
@@ -123,6 +125,7 @@ pause(1)
 candy "moose!"
 
 show redtitle
+show flash
 pause
 scene chapeltest4 with dissolve
 show candy blush with dissolve
@@ -167,18 +170,16 @@ show candyegocardframe with easeinbottom
 show candyegocard
 pause
 candy "meowmeowmeowemowe"
-show mayday talk with dissolve
-mayday "you can only be an idol so far, but what about idol without a body?"
-mayday "im not talking about spiritual....."
-show mayday deep with dissolve
-mayday "I never got into religion or any spiritual ideas... criminologies is very much..."
-mayday "A non spiritiual thing..."
-show mayday explain with dissolve
-mayday "maybe thats why its fate I went to hacking school."
-mayday "My ideas of body containers.."
-show mayday talk with dissolve
-mayday "maybe my ego has higher detective abilities than i do.."
-mayday "vice versa,,, my ego is able to be a better idol..."
+
+scene black with dissolve
+maydayn "you can only be an idol so far, but what about idol without a body?"
+maydayn "im not talking about spiritual....."
+maydayn "I never got into religion or any spiritual ideas... criminologies is very much..."
+maydayn "A non spiritiual thing..."
+maydayn "maybe thats why its fate I went to hacking school."
+maydayn "My ideas of body containers.."
+maydayn "maybe my ego has higher detective abilities than i do.."
+maydayn "vice versa,,, my ego is able to be a better idol..."
 caution "student..council..stu..d...e...."
 valentina "strawberrydeal deal"
 valentina "just take it"
