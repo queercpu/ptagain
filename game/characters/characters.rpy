@@ -7,7 +7,6 @@ callback=beep,
 kind=adv,
 what_color="ccffff",
 ctc_position="fixed",
-#what_style="gay",
 
 )
 
@@ -39,7 +38,6 @@ kind=adv,
 #what_color="ffff99",
 what_color="ccffff",
 ctc_position="fixed",
-#what_style="gay",
 
 )
 
@@ -50,7 +48,6 @@ kind=adv,
 #what_color="ffccff",
 what_color="ccffff",
 ctc_position="fixed",
-#what_style="gay",
 
 )
 
@@ -61,6 +58,5 @@ kind=adv,
 #what_color="ff0000",
 what_color="ccffff",
 ctc_position="fixed",
-#what_style="gay",
 
 )
